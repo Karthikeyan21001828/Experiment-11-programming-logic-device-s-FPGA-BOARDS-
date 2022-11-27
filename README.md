@@ -3,8 +3,7 @@
 ### HARDWARE REQUIRED:
 PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   
-Quartus prime
-### THEORY 
+Quartus prime 
 #### DEVELOPED BY: Karthikeyan.K
 #### REGISTER  NUMBER:212221230046
 ### Procedure :
